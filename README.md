@@ -9,7 +9,7 @@ In this demo, we'll make this picture I took of [The Osun River](https://en.wiki
 ## Getting started
 **To get started, follow the instructions below**
 
-- Clone this repo using `git clone https://github.com/onedebos/the-osun-river-nft.git`
+- Clone this repo using `git clone https://github.com/riki-tanaka/TOR-NFT.git`
 
 - Create a `.env` file. Then, follow the steps in the tutorial to obtain your
     - METAMASK_PRIVATE_KEY
@@ -38,11 +38,9 @@ Once done with the Getting started bit, you can run this example using the steps
 ## Author
 👤 **Adebola Adeniran**
 
-- [github](https://github.com/onedebos)
-- [twitter](https://twitter.com/debosthefirst)
-- [linkedin](https://www.linkedin.com/in/adebola-niran/)
-- [Web](https://adebola.dev)
-- [blog](https://blog.adebola.dev)
+- [github](https://github.com/riki-tanaka)
+- [linkedin](https://www.linkedin.com/in/riki-tanaka-312b43214//)
+- [Web](https://riki-tanaka.medium.com)
 
 ## Show your support
 
