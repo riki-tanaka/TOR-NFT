@@ -36,7 +36,7 @@ Once done with the Getting started bit, you can run this example using the steps
 - Currently, there are no automated tests avaailable for this project. This will be implemented at a later date.
 
 ## Author
-👤 **Adebola Adeniran**
+👤 **Riki Tanaka**
 
 - [github](https://github.com/riki-tanaka)
 - [linkedin](https://www.linkedin.com/in/riki-tanaka/)
