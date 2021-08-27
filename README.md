@@ -39,7 +39,7 @@ Once done with the Getting started bit, you can run this example using the steps
 👤 **Adebola Adeniran**
 
 - [github](https://github.com/riki-tanaka)
-- [linkedin](https://www.linkedin.com/in/riki-tanaka-312b43214//)
+- [linkedin](https://www.linkedin.com/in/riki-tanaka/)
 - [Web](https://riki-tanaka.medium.com)
 
 ## Show your support
